@@ -28,7 +28,7 @@ Make sure that you are [signed in](https://github.com/login) to GitHub.
 
 Click the **Fork** button at the upper right hand corner of the page:
 
-![fork](img/forking_repo.png)
+![fork](https://github.com/vaughnparker/dsp/blob/master/img/forking_repo.png)
 
 This makes a personal copy of the repository that you can edit. Your forked copies will show up in your *Repositories* section.
 
@@ -41,11 +41,11 @@ There are files in your forked repository that you need to edit to add your work
 
 When viewing an individual file in your forked repository on GitHub, you will an see "Edit this file" button that you can click to get an in-browser editor.
 
-![edit](img/edit_file.png)
+![edit](https://github.com/vaughnparker/dsp/blob/master/img/edit_file.png)
 
 After you've edited the file, you need to _commit_ your changes to make them permanent. At the bottom of the page you can add a _commit message_ describing your changes and then click the green "Commit changes" button.
 
-![commit](img/commit_file.png)
+![commit](https://github.com/vaughnparker/dsp/blob/master/img/commit_file.png)
 
 You can repeat the edit and commit process as many times as you like. You don't have to be totally done with a file to commit. Commit incrementally!
 

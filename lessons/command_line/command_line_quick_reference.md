@@ -7,18 +7,18 @@ review of the document to become familiar with the pieces can make it easier
 to look up relevant parts later.**
 
 ### The Command Shell
-Unix is a reference to any computer operating system that derives from the original **Unix operating system** from the 1970s.  This includes **Mac OS X** and basically all of the various versions of **Linux** (but not on Windows!  [See below](#windows)).  
+Unix is a reference to any computer operating system that derives from the original **Unix operating system** from the 1970s.  This includes **Mac OS X** and basically all of the various versions of **Linux** (but not on Windows! See below).  
 
 The Unix command line is an interface for talking to your computer, usually through what's called a **shell**.  The shell is a program that allows you to type commands and performs the specified actions in response to your commands.  On a Mac, this is what the **Terminal** application is, and you will find a similar application on Linux machines.
 
 There are a number of different "flavors" of shell with slightly different command line syntax for the standard (and other) commands.  The most common flavor of shell these days is **Bash**, and that's what we'll be assuming in this course and this tutorial.  Bash is the default for Terminal on a Mac.  When you open up a shell, you're ready to start typing commands and the computer will respond to these commands via the underlying Unix **Kernel** (the core of the operating system).
 
-### <a href='windows'></a>For Windows Users
+### For Windows Users
 Windows has its own operating system kernel and thus its own "shell" for running commands.  In order to use Unix style commands on Windows, you'll need to download some sort of **Unix Command Line Emulator**, for instance [**Cygwin**]().
 
 ### The Unix Directory Structure
 Unix-based filesystems will have a (mostly) common shared directory structure.  It should look something like the following:  
-<img src="img/unix_fs.jpg"/>
+<img src="https://github.com/vaughnparker/dsp/blob/master/img/unix_tree_public_domain.jpg"/>
 
 #### The `bin` directory
 Contains binaries for running many of the commands that you'll type at the command line.  When you type a command, the `/bin` directory is one of the main places that the operating system will search to know what you're asking it to do.  If it finds a matching **executable** (a runnable program matching the command name given), then it will run that.

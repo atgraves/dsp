@@ -50,7 +50,7 @@ Popular editors and IDEs include:
  * [vim](http://www.howtogeek.com/102468/a-beginners-guide-to-editing-text-files-with-vi/)
  * [Sublime Text 3](https://www.sublimetext.com/)
  * [Atom](https://atom.io/)
- * [Spyder](https://spyder-ide.github.io/)
+ * [Spyder](https://www.spyder-ide.org/)
  * [PyCharm](https://www.jetbrains.com/pycharm/)
  * [Rodeo](http://blog.yhat.com/posts/introducing-rodeo.html)
 

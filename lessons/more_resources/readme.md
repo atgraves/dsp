@@ -36,7 +36,7 @@ The following tutorials are very helpful in preparing for the bootcamp. It is hi
  
 ### Statistics
  * [Jeffrey Simonoff's Regression Course](http://people.stern.nyu.edu/jsimonof/classes/2301/pdf/)
- * [Introduction to Probability (2e) by Dimitri P. Bertsekas & John N. Tsitsiklis (online book)](https://www.scribd.com/doc/179695789/Book-Introduction-to-Probability-2e-by-Dimitri-P-Bertsekas-John-N-Tsitsiklis)
+ * [Introduction to Probability (2e) by Dimitri P. Bertsekas & John N. Tsitsiklis (online book)](http://users.ece.cmu.edu/~byronyu/teaching/18698/probability_bertsekas.pdf)
 
 ### Greek Math Letters
 
@@ -49,6 +49,7 @@ The following tutorials are very helpful in preparing for the bootcamp. It is hi
 
 ### Web Development for D3
 
- * [HTML & CSS (online tutorial: 7 hours)](https://www.codecademy.com/tracks/web/)
- * [JavaScript (online tutorial: 10 hours)](http://www.codecademy.com/tracks/javascript/)
+ * [Introduction to HTML: 7 hours](https://www.codecademy.com/learn/learn-html)
+ * [Learn CSS: 15 hours](https://www.codecademy.com/learn/learn-css)
+ * [JavaScript (online tutorial: 10 hours)](https://www.codecademy.com/learn/introduction-to-javascript)
  * [Eloquent Javascript (book)](http://eloquentjavascript.net/)
