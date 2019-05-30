@@ -195,6 +195,8 @@ ls -lh
 
 > What changed?
 
+> Response: The file sizes are now given appropriate units of bytes and kilobytes
+
 If instead copying we just want to change the name of a file, we can do:
 
 
