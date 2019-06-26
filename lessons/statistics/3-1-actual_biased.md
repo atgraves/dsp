@@ -14,4 +14,5 @@ print('Observed mean', biased_pmf.Mean())
 `
 
 Actual mean 1.024205155043831
+
 Observed mean 2.403679100664282
