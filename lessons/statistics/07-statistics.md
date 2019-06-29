@@ -93,7 +93,9 @@ Elvis Presley had a twin brother who died at birth.  What is the probability tha
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+Bayesianism incorporates prior beliefs and updated beliefs about how the world works. Credible intervals are based on subjective uncertainty. Probability is related to our own certainty or uncertainty of events.
+
+Frequentism uses observed frequencies to calculate probability. The focus is on parameters, which are assumed to be fixed constants. Confidence intervals are based on repeated sampling. Probability is derived from the frequencies of repeated events.
 
 ---
 
