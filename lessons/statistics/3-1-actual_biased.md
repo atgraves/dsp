@@ -14,7 +14,7 @@ print('Actual mean', pmf.Mean())
 print('Observed mean', biased_pmf.Mean())
 ```
 
-
+[Chap3Ex1.png](https://github.com/atgraves/dsp/blob/master/lessons/statistics/Chap3Ex1.png)
 
 Actual mean 1.024205155043831
 
