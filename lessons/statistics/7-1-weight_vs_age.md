@@ -9,6 +9,8 @@ thinkplot.Config(xlabel='Age of mother (years)',
                  legend=False)
 ```
 
+![Chap7Ex1.png](https://github.com/atgraves/dsp/blob/master/lessons/statistics/Chap7Ex1.png)
+
 ```python
 bins = np.arange(10, 50)
 indices = np.digitize(agepreg, bins)
@@ -26,6 +28,9 @@ thinkplot.Config(xlabel='Age of mother (years)',
                  axis=[10, 45, 5, 9],
                  legend=True)
 ```
+
+![Chap7Ex1a.png](https://github.com/atgraves/dsp/blob/master/lessons/statistics/Chap7Ex1a.png)
+
 Ignoring the clear outliers, there is a slight increase in baby weight with older mothers, but this effect levels-off by about age 30.
 
 ```python
@@ -33,4 +38,4 @@ Corr(agepreg, totalwgt_lb), SpearmanCorr(agepreg, totalwgt_lb)
 ```
 (0.06883397035410908, 0.09461004109658226)
 
-The correlations show the slight positive correlation that can be seen on the scatter plot.
+The correlations show the slight positive correlation that can be seen on the scatter plot, namely in the range of age 20 to age 35.
